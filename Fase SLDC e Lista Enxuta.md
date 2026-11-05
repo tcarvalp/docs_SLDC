@@ -1,8 +1,8 @@
-A seguir está uma \*\*versão enxuta\*\*, organizada por fase do \*\*SDLC — ciclo de vida de desenvolvimento de software\*\*.
+A seguir está uma **versão enxuta**, organizada por fase do **SDLC — ciclo de vida de desenvolvimento de software**.
 
 
 
-A proposta reúne os principais conteúdos em \*\*12 documentos ou conjuntos de registros\*\*. Eles não precisam ser 12 arquivos separados: podem estar distribuídos entre a ferramenta de gestão, o repositório de código e a plataforma de documentação.
+A proposta reúne os principais conteúdos em **12 documentos ou conjuntos de registros**. Eles não precisam ser 12 arquivos separados: podem estar distribuídos entre a ferramenta de gestão, o repositório de código e a plataforma de documentação.
 
 
 
@@ -10,7 +10,7 @@ A proposta reúne os principais conteúdos em \*\*12 documentos ou conjuntos de 
 
 
 
-\# Visão geral por fase
+# Visão geral por fase
 
 
 
@@ -36,131 +36,131 @@ A proposta reúne os principais conteúdos em \*\*12 documentos ou conjuntos de 
 
 
 
-\---
+---
 
 
 
-\# 1. Concepção e planejamento
+# 1. Concepção e planejamento
 
 
 
-\## Documento 1 — Visão e justificativa do projeto
+## Documento 1 — Visão e justificativa do projeto
 
 
 
-\*\*Objetivo:\*\* explicar por que o projeto existe e o que se espera alcançar.
+**Objetivo:** explicar por que o projeto existe e o que se espera alcançar.
 
 
 
-\*\*Responsável sugerido:\*\* patrocinador ou responsável pelo negócio, com apoio de produto e gestão do projeto.
+**Responsável sugerido:** patrocinador ou responsável pelo negócio, com apoio de produto e gestão do projeto.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Problema ou oportunidade.
+- Problema ou oportunidade.
 
-\- Objetivos de negócio.
+- Objetivos de negócio.
 
-\- Público e áreas afetadas.
+- Público e áreas afetadas.
 
-\- Benefícios esperados.
+- Benefícios esperados.
 
-\- Indicadores de sucesso.
+- Indicadores de sucesso.
 
-\- Escopo inicial e o que está fora dele.
+- Escopo inicial e o que está fora dele.
 
-\- Estimativa inicial de prazo e investimento.
+- Estimativa inicial de prazo e investimento.
 
-\- Principais premissas e restrições.
+- Principais premissas e restrições.
 
 
 
-\*\*Exemplo de objetivo:\*\* reduzir o tempo médio de aprovação de propostas de 48 para 12 horas.
+**Exemplo de objetivo:** reduzir o tempo médio de aprovação de propostas de 48 para 12 horas.
 
 
 
-\---
+---
 
 
 
-\## Documento 2 — Governança, riscos e decisões
+## Documento 2 — Governança, riscos e decisões
 
 
 
-\*\*Objetivo:\*\* deixar claro quem decide, quais são os riscos e quais dependências podem afetar a entrega.
+**Objetivo:** deixar claro quem decide, quais são os riscos e quais dependências podem afetar a entrega.
 
 
 
-\*\*Responsável sugerido:\*\* gestor do projeto ou produto.
+**Responsável sugerido:** gestor do projeto ou produto.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Patrocinador e responsáveis por negócio, produto, tecnologia e segurança.
+- Patrocinador e responsáveis por negócio, produto, tecnologia e segurança.
 
-\- Responsáveis por aprovar requisitos e implantação.
+- Responsáveis por aprovar requisitos e implantação.
 
-\- Principais riscos e respectivos planos de ação.
+- Principais riscos e respectivos planos de ação.
 
-\- Dependências internas e externas.
+- Dependências internas e externas.
 
-\- Decisões importantes, responsáveis e datas.
+- Decisões importantes, responsáveis e datas.
 
-\- Mudanças relevantes de escopo, prazo ou custo.
+- Mudanças relevantes de escopo, prazo ou custo.
 
 
 
-\*\*Quando atualizar:\*\* durante todo o projeto.
+**Quando atualizar:** durante todo o projeto.
 
 
 
-\---
+---
 
 
 
-\# 2. Descoberta e análise de negócio
+# 2. Descoberta e análise de negócio
 
 
 
-\## Documento 3 — Processos e regras de negócio
+## Documento 3 — Processos e regras de negócio
 
 
 
-\*\*Objetivo:\*\* registrar como o trabalho acontece e quais regras a solução deve respeitar.
+**Objetivo:** registrar como o trabalho acontece e quais regras a solução deve respeitar.
 
 
 
-\*\*Responsável sugerido:\*\* analista de negócios, com validação da área responsável pelo processo.
+**Responsável sugerido:** analista de negócios, com validação da área responsável pelo processo.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Processo atual e principais dificuldades.
+- Processo atual e principais dificuldades.
 
-\- Processo futuro esperado.
+- Processo futuro esperado.
 
-\- Participantes e responsabilidades.
+- Participantes e responsabilidades.
 
-\- Etapas, decisões e exceções.
+- Etapas, decisões e exceções.
 
-\- Sistemas envolvidos.
+- Sistemas envolvidos.
 
-\- Regras de negócio.
+- Regras de negócio.
 
-\- Glossário dos termos importantes.
+- Glossário dos termos importantes.
 
 
 
-\### Exemplo de regra
+### Exemplo de regra
 
 
 
@@ -172,41 +172,41 @@ Essa regra deve estar ligada ao requisito e aos testes correspondentes.
 
 
 
-\---
+---
 
 
 
-\## Documento 4 — Visão do produto e backlog
+## Documento 4 — Visão do produto e backlog
 
 
 
-\*\*Objetivo:\*\* definir para quem a solução será construída, qual valor deve gerar e quais entregas serão priorizadas.
+**Objetivo:** definir para quem a solução será construída, qual valor deve gerar e quais entregas serão priorizadas.
 
 
 
-\*\*Responsável sugerido:\*\* gestor de produto, com apoio de negócio e tecnologia.
+**Responsável sugerido:** gestor de produto, com apoio de negócio e tecnologia.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Usuários ou públicos atendidos.
+- Usuários ou públicos atendidos.
 
-\- Necessidades e problemas prioritários.
+- Necessidades e problemas prioritários.
 
-\- Proposta de valor.
+- Proposta de valor.
 
-\- Objetivos e métricas do produto.
+- Objetivos e métricas do produto.
 
-\- Principais funcionalidades.
+- Principais funcionalidades.
 
-\- Prioridades e dependências.
+- Prioridades e dependências.
 
-\- Planejamento inicial das entregas.
+- Planejamento inicial das entregas.
 
-\- Hipóteses que ainda precisam ser validadas.
+- Hipóteses que ainda precisam ser validadas.
 
 
 
@@ -214,49 +214,49 @@ O backlog será detalhado na fase seguinte. Para um projeto pequeno, visão e ba
 
 
 
-\---
+---
 
 
 
-\# 3. Requisitos
+# 3. Requisitos
 
 
 
-\## Complemento do documento 4 — Requisitos e critérios de aceite
+## Complemento do documento 4 — Requisitos e critérios de aceite
 
 
 
-\*\*Objetivo:\*\* tornar claro o que cada entrega precisa fazer e como será validada.
+**Objetivo:** tornar claro o que cada entrega precisa fazer e como será validada.
 
 
 
-\*\*Responsáveis sugeridos:\*\* produto, análise de negócios, engenharia e qualidade.
+**Responsáveis sugeridos:** produto, análise de negócios, engenharia e qualidade.
 
 
 
-\### Para cada requisito ou item relevante do backlog, registrar
+### Para cada requisito ou item relevante do backlog, registrar
 
 
 
-\- Identificador e descrição.
+- Identificador e descrição.
 
-\- Problema ou objetivo atendido.
+- Problema ou objetivo atendido.
 
-\- Usuário ou sistema envolvido.
+- Usuário ou sistema envolvido.
 
-\- Regras de negócio relacionadas.
+- Regras de negócio relacionadas.
 
-\- Fluxo principal e exceções.
+- Fluxo principal e exceções.
 
-\- Critérios de aceite verificáveis.
+- Critérios de aceite verificáveis.
 
-\- Prioridade e dependências.
+- Prioridade e dependências.
 
-\- Referências para telas, integrações ou testes.
+- Referências para telas, integrações ou testes.
 
 
 
-\### Exemplo de critério de aceite
+### Exemplo de critério de aceite
 
 
 
@@ -264,225 +264,225 @@ O backlog será detalhado na fase seguinte. Para um projeto pequeno, visão e ba
 
 
 
-\---
+---
 
 
 
-\## Documento 5 — Requisitos não funcionais
+## Documento 5 — Requisitos não funcionais
 
 
 
-\*\*Objetivo:\*\* definir os atributos de qualidade e as restrições da solução.
+**Objetivo:** definir os atributos de qualidade e as restrições da solução.
 
 
 
-\*\*Responsável sugerido:\*\* arquitetura ou liderança técnica, com participação de negócio, segurança e operações.
+**Responsável sugerido:** arquitetura ou liderança técnica, com participação de negócio, segurança e operações.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Desempenho esperado.
+- Desempenho esperado.
 
-\- Disponibilidade necessária.
+- Disponibilidade necessária.
 
-\- Volume de usuários e transações.
+- Volume de usuários e transações.
 
-\- Segurança e controle de acesso.
+- Segurança e controle de acesso.
 
-\- Privacidade e retenção de dados.
+- Privacidade e retenção de dados.
 
-\- Acessibilidade, quando houver interface.
+- Acessibilidade, quando houver interface.
 
-\- Monitoramento e registros.
+- Monitoramento e registros.
 
-\- Backup e recuperação.
+- Backup e recuperação.
 
-\- Restrições técnicas ou de fornecedores.
+- Restrições técnicas ou de fornecedores.
 
 
 
-\*\*Boa prática:\*\* sempre que possível, escreva requisitos mensuráveis. Por exemplo, prefira “95% das consultas em até dois segundos” a “a tela deve ser rápida”.
+**Boa prática:** sempre que possível, escreva requisitos mensuráveis. Por exemplo, prefira “95% das consultas em até dois segundos” a “a tela deve ser rápida”.
 
 
 
-\---
+---
 
 
 
-\# 4. Arquitetura e desenho
+# 4. Arquitetura e desenho
 
 
 
-\## Documento 6 — Arquitetura da solução e decisões técnicas
+## Documento 6 — Arquitetura da solução e decisões técnicas
 
 
 
-\*\*Objetivo:\*\* explicar como a solução será estruturada e por que as principais decisões foram tomadas.
+**Objetivo:** explicar como a solução será estruturada e por que as principais decisões foram tomadas.
 
 
 
-\*\*Responsável sugerido:\*\* arquiteto de solução ou liderança técnica.
+**Responsável sugerido:** arquiteto de solução ou liderança técnica.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Diagrama de contexto: usuários, solução e sistemas externos.
+- Diagrama de contexto: usuários, solução e sistemas externos.
 
-\- Componentes e responsabilidades.
+- Componentes e responsabilidades.
 
-\- Principais fluxos.
+- Principais fluxos.
 
-\- Integrações e contratos de APIs ou eventos.
+- Integrações e contratos de APIs ou eventos.
 
-\- Ambientes e infraestrutura.
+- Ambientes e infraestrutura.
 
-\- Dependências técnicas.
+- Dependências técnicas.
 
-\- Como a solução atende aos requisitos não funcionais.
+- Como a solução atende aos requisitos não funcionais.
 
-\- Decisões técnicas relevantes, alternativas e consequências.
+- Decisões técnicas relevantes, alternativas e consequências.
 
-\- Riscos e pontos ainda em aberto.
+- Riscos e pontos ainda em aberto.
 
 
 
-As decisões podem ser registradas em pequenos \*\*registros de decisão arquitetural\*\*, vinculados ao documento principal.
+As decisões podem ser registradas em pequenos **registros de decisão arquitetural**, vinculados ao documento principal.
 
 
 
-\---
+---
 
 
 
-\## Documento 7 — Dados e privacidade
+## Documento 7 — Dados e privacidade
 
 
 
-\*\*Objetivo:\*\* registrar quais dados serão tratados, onde estarão e como serão protegidos.
+**Objetivo:** registrar quais dados serão tratados, onde estarão e como serão protegidos.
 
 
 
-\*\*Responsável sugerido:\*\* equipe de dados ou liderança técnica, com participação de privacidade quando aplicável.
+**Responsável sugerido:** equipe de dados ou liderança técnica, com participação de privacidade quando aplicável.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Principais entidades e dados.
+- Principais entidades e dados.
 
-\- Significado dos campos relevantes.
+- Significado dos campos relevantes.
 
-\- Origem e destino dos dados.
+- Origem e destino dos dados.
 
-\- Sistemas e fornecedores que recebem informações.
+- Sistemas e fornecedores que recebem informações.
 
-\- Dados pessoais ou sensíveis, quando houver.
+- Dados pessoais ou sensíveis, quando houver.
 
-\- Responsáveis pelo acesso e tratamento.
+- Responsáveis pelo acesso e tratamento.
 
-\- Retenção e exclusão.
+- Retenção e exclusão.
 
-\- Necessidade de migração e validação dos dados.
+- Necessidade de migração e validação dos dados.
 
 
 
-\*\*Quando aplicável:\*\* avaliações de privacidade mais detalhadas, incluindo RIPD, devem ser tratadas conforme o risco e as exigências pertinentes.
+**Quando aplicável:** avaliações de privacidade mais detalhadas, incluindo RIPD, devem ser tratadas conforme o risco e as exigências pertinentes.
 
 
 
-\---
+---
 
 
 
-\## Documento 8 — Segurança e modelo de ameaças
+## Documento 8 — Segurança e modelo de ameaças
 
 
 
-\*\*Objetivo:\*\* identificar os principais riscos de segurança antes e durante a construção.
+**Objetivo:** identificar os principais riscos de segurança antes e durante a construção.
 
 
 
-\*\*Responsável sugerido:\*\* segurança da informação e arquitetura.
+**Responsável sugerido:** segurança da informação e arquitetura.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Ativos e dados que precisam de proteção.
+- Ativos e dados que precisam de proteção.
 
-\- Pontos de entrada e integrações.
+- Pontos de entrada e integrações.
 
-\- Principais ameaças e cenários de abuso.
+- Principais ameaças e cenários de abuso.
 
-\- Requisitos de autenticação e autorização.
+- Requisitos de autenticação e autorização.
 
-\- Proteção de dados e credenciais.
+- Proteção de dados e credenciais.
 
-\- Controles previstos.
+- Controles previstos.
 
-\- Vulnerabilidades identificadas.
+- Vulnerabilidades identificadas.
 
-\- Riscos aceitos, responsáveis e prazos.
+- Riscos aceitos, responsáveis e prazos.
 
-\- Testes de segurança necessários.
+- Testes de segurança necessários.
 
 
 
-\*\*Exemplo de ameaça:\*\* um usuário tenta acessar informações de outro cliente alterando um identificador na requisição.
+**Exemplo de ameaça:** um usuário tenta acessar informações de outro cliente alterando um identificador na requisição.
 
 
 
-\---
+---
 
 
 
-\# 5. Desenvolvimento
+# 5. Desenvolvimento
 
 
 
-\## Documento 9 — Guia de desenvolvimento
+## Documento 9 — Guia de desenvolvimento
 
 
 
-\*\*Objetivo:\*\* permitir que a equipe construa e mantenha a solução de maneira consistente.
+**Objetivo:** permitir que a equipe construa e mantenha a solução de maneira consistente.
 
 
 
-\*\*Responsável sugerido:\*\* liderança técnica ou equipe de engenharia.
+**Responsável sugerido:** liderança técnica ou equipe de engenharia.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Como configurar o ambiente.
+- Como configurar o ambiente.
 
-\- Como executar a aplicação.
+- Como executar a aplicação.
 
-\- Organização do código.
+- Organização do código.
 
-\- Padrões de desenvolvimento.
+- Padrões de desenvolvimento.
 
-\- Processo de revisão de código.
+- Processo de revisão de código.
 
-\- Como executar testes.
+- Como executar testes.
 
-\- Gestão de dependências e segredos.
+- Gestão de dependências e segredos.
 
-\- Processo de construção e implantação.
+- Processo de construção e implantação.
 
-\- Responsáveis pelo repositório e canais de suporte.
+- Responsáveis pelo repositório e canais de suporte.
 
 
 
@@ -490,197 +490,197 @@ Esse guia pode ficar no próprio repositório, próximo ao código. Um guia comu
 
 
 
-\### Durante a construção, também manter atualizados
+### Durante a construção, também manter atualizados
 
 
 
-\- Backlog e critérios de aceite.
+- Backlog e critérios de aceite.
 
-\- Arquitetura e decisões técnicas.
+- Arquitetura e decisões técnicas.
 
-\- Contratos de integração.
+- Contratos de integração.
 
-\- Registro de riscos e vulnerabilidades.
+- Registro de riscos e vulnerabilidades.
 
-\- Testes automatizados e suas evidências.
+- Testes automatizados e suas evidências.
 
 
 
-\---
+---
 
 
 
-\# 6. Testes e validação
+# 6. Testes e validação
 
 
 
-\## Documento 10 — Estratégia de testes, evidências e aceite
+## Documento 10 — Estratégia de testes, evidências e aceite
 
 
 
-\*\*Objetivo:\*\* demonstrar que a solução atende aos requisitos e que os riscos conhecidos foram considerados.
+**Objetivo:** demonstrar que a solução atende aos requisitos e que os riscos conhecidos foram considerados.
 
 
 
-\*\*Responsável sugerido:\*\* qualidade e engenharia, com aceite da área de negócio.
+**Responsável sugerido:** qualidade e engenharia, com aceite da área de negócio.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Escopo e responsabilidades dos testes.
+- Escopo e responsabilidades dos testes.
 
-\- Critérios de entrada e saída.
+- Critérios de entrada e saída.
 
-\- Cenários e comportamentos críticos.
+- Cenários e comportamentos críticos.
 
-\- Tipos de teste necessários.
+- Tipos de teste necessários.
 
-\- Ambiente e dados de teste.
+- Ambiente e dados de teste.
 
-\- Resultados e evidências.
+- Resultados e evidências.
 
-\- Defeitos e pendências.
+- Defeitos e pendências.
 
-\- Riscos residuais.
+- Riscos residuais.
 
-\- Decisão de aceite e responsáveis.
+- Decisão de aceite e responsáveis.
 
 
 
-\### Tipos de teste a avaliar
+### Tipos de teste a avaliar
 
 
 
-\- Funcionais e de integração.
+- Funcionais e de integração.
 
-\- Segurança.
+- Segurança.
 
-\- Desempenho.
+- Desempenho.
 
-\- Acessibilidade.
+- Acessibilidade.
 
-\- Migração de dados.
+- Migração de dados.
 
-\- Recuperação.
+- Recuperação.
 
-\- Aceitação do usuário.
+- Aceitação do usuário.
 
 
 
-\*\*Importante:\*\* o aceite deve registrar também as pendências conhecidas, com responsáveis e prazos.
+**Importante:** o aceite deve registrar também as pendências conhecidas, com responsáveis e prazos.
 
 
 
-\---
+---
 
 
 
-\# 7. Implantação
+# 7. Implantação
 
 
 
-\## Documento 11 — Plano de implantação e retorno
+## Documento 11 — Plano de implantação e retorno
 
 
 
-\*\*Objetivo:\*\* orientar a entrada em produção e reduzir o impacto de falhas.
+**Objetivo:** orientar a entrada em produção e reduzir o impacto de falhas.
 
 
 
-\*\*Responsável sugerido:\*\* engenharia ou responsável pela implantação, com operações e negócio.
+**Responsável sugerido:** engenharia ou responsável pela implantação, com operações e negócio.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Versão e funcionalidades incluídas.
+- Versão e funcionalidades incluídas.
 
-\- Data, janela e responsáveis.
+- Data, janela e responsáveis.
 
-\- Pré-requisitos.
+- Pré-requisitos.
 
-\- Passos de implantação.
+- Passos de implantação.
 
-\- Configurações e migrações necessárias.
+- Configurações e migrações necessárias.
 
-\- Validações antes e depois da implantação.
+- Validações antes e depois da implantação.
 
-\- Comunicação aos usuários e áreas afetadas.
+- Comunicação aos usuários e áreas afetadas.
 
-\- Critérios para interromper a implantação.
+- Critérios para interromper a implantação.
 
-\- Plano de retorno ou correção.
+- Plano de retorno ou correção.
 
-\- Contatos de apoio.
+- Contatos de apoio.
 
-\- Resultado da implantação.
+- Resultado da implantação.
 
 
 
-\*\*Atenção:\*\* se a mudança envolver migração de dados, documente se o retorno é realmente possível e como será feito.
+**Atenção:** se a mudança envolver migração de dados, documente se o retorno é realmente possível e como será feito.
 
 
 
-\---
+---
 
 
 
-\# 8. Operação e evolução
+# 8. Operação e evolução
 
 
 
-\## Documento 12 — Manual operacional e continuidade
+## Documento 12 — Manual operacional e continuidade
 
 
 
-\*\*Objetivo:\*\* garantir que a solução possa ser monitorada, sustentada e recuperada após a implantação.
+**Objetivo:** garantir que a solução possa ser monitorada, sustentada e recuperada após a implantação.
 
 
 
-\*\*Responsável sugerido:\*\* equipe proprietária do serviço ou operações.
+**Responsável sugerido:** equipe proprietária do serviço ou operações.
 
 
 
-\### Conteúdo mínimo
+### Conteúdo mínimo
 
 
 
-\- Responsável pelo serviço e contatos.
+- Responsável pelo serviço e contatos.
 
-\- Visão dos componentes e dependências.
+- Visão dos componentes e dependências.
 
-\- Procedimentos operacionais mais comuns.
+- Procedimentos operacionais mais comuns.
 
-\- Painéis, métricas e alertas.
+- Painéis, métricas e alertas.
 
-\- Tratamento e escalonamento de incidentes.
+- Tratamento e escalonamento de incidentes.
 
-\- Problemas conhecidos.
+- Problemas conhecidos.
 
-\- Procedimentos de backup e restauração.
+- Procedimentos de backup e restauração.
 
-\- Objetivos de recuperação acordados.
+- Objetivos de recuperação acordados.
 
-\- Procedimentos para falhas críticas.
+- Procedimentos para falhas críticas.
 
-\- Links para arquitetura e documentação técnica.
+- Links para arquitetura e documentação técnica.
 
 
 
-Para situações recorrentes ou críticas, inclua instruções específicas de diagnóstico e resolução — os chamados \*\*runbooks\*\*.
+Para situações recorrentes ou críticas, inclua instruções específicas de diagnóstico e resolução — os chamados **runbooks**.
 
 
 
-\---
+---
 
 
 
-\# Resumo: os 12 documentos essenciais
+# Resumo: os 12 documentos essenciais
 
 
 
@@ -714,7 +714,7 @@ Para situações recorrentes ou críticas, inclua instruções específicas de d
 
 
 
-\## Documentos adicionais, somente quando aplicáveis
+## Documentos adicionais, somente quando aplicáveis
 
 
 
@@ -736,27 +736,27 @@ Para situações recorrentes ou críticas, inclua instruções específicas de d
 
 
 
-\## Regra prática
+## Regra prática
 
 
 
-Se for necessário reduzir ainda mais a quantidade de arquivos, \*\*agrupe documentos, mas não elimine seus conteúdos essenciais\*\*. Por exemplo:
+Se for necessário reduzir ainda mais a quantidade de arquivos, **agrupe documentos, mas não elimine seus conteúdos essenciais**. Por exemplo:
 
 
 
-\- Visão do projeto + governança.
+- Visão do projeto + governança.
 
-\- Processos + regras de negócio.
+- Processos + regras de negócio.
 
-\- Backlog + requisitos + critérios de aceite.
+- Backlog + requisitos + critérios de aceite.
 
-\- Arquitetura + dados + segurança.
+- Arquitetura + dados + segurança.
 
-\- Testes + evidências + aceite.
+- Testes + evidências + aceite.
 
-\- Implantação + operação + continuidade.
+- Implantação + operação + continuidade.
 
 
 
-O resultado pode ser um pacote de \*\*seis conjuntos\*\*, desde que cada informação tenha responsável, esteja atualizada e possa ser encontrada facilmente.
+O resultado pode ser um pacote de **seis conjuntos**, desde que cada informação tenha responsável, esteja atualizada e possa ser encontrada facilmente.
 
